@@ -1,26 +1,19 @@
-.container {
-	margin: 50px auto;
-	max-width: 600px;
-	text-align: center;
-}
-
-h1 {
-	font-size: 36px;
-	margin-bottom: 20px;
-}
-
-ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-li {
-	font-size: 18px;
-	line-height: 1.5;
-	margin-bottom: 10px;
-}
-
-strong {
-	font-weight: bold;
-}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Favorite Books</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<h1>My Favorite Books</h1>
+		<ul>
+			<li><strong>The Great Gatsby</strong> by F. Scott Fitzgerald</li>
+			<li><strong>To Kill a Mockingbird</strong> by Harper Lee</li>
+			<li><strong>1984</strong> by George Orwell</li>
+			<li><strong>The Catcher in the Rye</strong> by J.D. Salinger</li>
+			<li><strong>Pride and Prejudice</strong> by Jane Austen</li>
+		</ul>
+	</div>
+</body>
+</html>
